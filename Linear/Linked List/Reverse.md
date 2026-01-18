@@ -6,6 +6,8 @@ Given the head of a singly linked list, reverse the list and return the new head
 ---
 
 ## Logic (Core Idea)
+<img width="686" height="193" alt="image" src="https://github.com/user-attachments/assets/617fb343-e26c-4d0b-9dc3-ba5e97c670b2" />
+
 We reverse links **one by one**.
 
 At each node:
