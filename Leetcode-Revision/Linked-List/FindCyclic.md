@@ -39,6 +39,7 @@ int hasCycle(struct ListNode* head) {
     }
     return 0; // no cycle
 }
+```
 
 
 # Find the Node Where the Cycle Begins (Linked List)
